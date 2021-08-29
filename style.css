@@ -15,3 +15,22 @@
   width: 100%;
   background-color: orange;
 }
+.main {
+  height: 1400px;
+  width: 960px;
+  background-color: palegreen;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.main-contents {
+  height: 1400px;
+  width: 500px;
+  background-color: rgb(20, 214, 20);
+}
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
