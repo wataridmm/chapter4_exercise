@@ -16,7 +16,6 @@
   background-color: orange;
 }
 .main {
-  width: 960px;
   margin: auto;
   display: flex;
   justify-content: center;
@@ -31,7 +30,11 @@
   height: 1400px;
   background: rgb(37, 180, 37);
 }
-
+.side-bar-right {
+  width: 230px;
+  height: 1400px;
+  background: palegreen;
+}
 
 .footer {
   height: 100px;
